@@ -30,7 +30,7 @@ class Wz_line_notify_Deactivator {
 	 * @since    1.0.0
 	 */
 	public static function deactivate() {
-		delete_option("wz_line_notify_license");
+
 	}
 
 }

@@ -2,11 +2,3 @@
  * All of the CSS for your admin-specific functionality should be
  * included in this file.
  */
-
- .wz_line_notify_license_key{
-    width: 18em !important;
- }
-
- .toplevel_page_wz-woo-notify .dashicons-before:before {
-    content: "\f130";
- }
